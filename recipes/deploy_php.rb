@@ -1,6 +1,6 @@
 #
-# Cookbook Name:: deploy
-# Recipe:: php
+# Cookbook Name:: dealhunter
+# Recipe:: deploy_php
 #
 
 include_recipe 'deploy'
